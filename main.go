@@ -12,6 +12,7 @@ func main() {
 	}
 
 	fmt.Println(cow)
+	fmt.Println(cow)
 }
 
 type Cow struct {
